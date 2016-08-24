@@ -1,0 +1,16 @@
+{
+  "name": "hooks-spike",
+  "version": "0.1.0",
+  "description": "Sample project to test Git hooks as governance controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security",
+    "git",
+    "hook"
+  ],
+  "author": "ulisses.albuquerque@team.telstra.com",
+  "license": "ISC"
+}
