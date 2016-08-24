@@ -1,27 +1,2 @@
-/home/secops/.gem/
-/home/secops/.gem/specs
-/home/secops/.gem/specs/api.rubygems.org%443
-/home/secops/.gem/specs/api.rubygems.org%443/latest_specs.4.8
-/home/secops/.gem/specs/api.rubygems.org%443/quick
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/unf_ext-0.0.7.2.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/http-cookie-1.0.2.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/domain_name-0.5.20160615.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/addressable-2.4.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/sawyer-0.7.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/method_source-0.8.2.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/octokit-4.3.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/rubyzip-1.2.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/coderay-1.1.1.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/pry-0.10.4.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/multipart-post-2.0.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/faraday-0.9.2.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/unf-0.1.4.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/netrc-0.11.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/stash-api-1.1.35.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/bundler-1.12.5.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/slop-3.6.0.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/mime-types-2.99.2.gemspec
-/home/secops/.gem/specs/api.rubygems.org%443/quick/Marshal.4.8/rest-client-1.8.0.gemspec
-/home/secops/.gem/specs/rubygems.org%443
-/home/secops/.gem/specs/rubygems.org%443/latest_specs.4.8
+# Git hook sandbox
+Nothing to see here, for now.
